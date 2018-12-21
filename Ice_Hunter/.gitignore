@@ -1,0 +1,9 @@
+
+*.ide-shm
+*.ide-wal
+/Temp
+*/metadata/*
+*.meta
+*.suo
+*.ide-shm
+*.csproj

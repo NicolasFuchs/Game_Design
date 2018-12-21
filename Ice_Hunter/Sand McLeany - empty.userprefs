@@ -1,0 +1,13 @@
+﻿<Properties StartupItem="Sand McLeany - empty.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\CameraMove.cs">
+    <Files>
+      <File FileName="Assets\Scripts\Controller.cs" Line="10" Column="28" />
+      <File FileName="Assets\Scripts\CameraMove.cs" Line="16" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

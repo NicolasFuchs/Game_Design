@@ -1,0 +1,3 @@
+- Tester animations pour nager, courir
+- Créer des objet par code
+- Animation orque, ours, poisson, perso (courir, nager, remonter, accroupir)

@@ -1,0 +1,49 @@
+﻿KALASTAJA  (Pêcheur)
+=========
+
+Nom du groupe:			Kalastaya
+Nom du projet et nom du jeu:	Kalastaja
+
+Membres:			Nicolas Fuchs
+				Cédric Bouteille
+				Jigé Pont
+
+
+Description du jeu:
+
+
+	Type de GUI:	2D Unity
+	Type de jeu:	Plate-formes
+
+	Résumé:
+	-------
+
+	Sakari doit aller chercher de la nourriture pour sa famille. Elle sort de son Igloo, prend son harpon et par donc
+	pêcher du poisson ou du phoque.
+
+	Elle arriver sur le bord de l'océan et doit sauter sur des petits iceberg, se mettre sur leur bord et pécher en 
+	visant du poisson ou des phoques.
+
+	Las, l'iceberg ne supporte pas complètement son poids et il se met à couler lentement. Quans elle à les pieds dans 
+	l'eau elle se déplace moins vite et saute moins loin. Si elle tombe à l'eau elle a quelques secondes pour remonter 
+	sur un iceberg sinon elle meurt de froid.
+
+	Des poissons et des phoques passent de temps en temps dans l'eau et elle peut lance son Harpon pour les attrapper.
+
+	De plus, des orques se promènent et ils cassent les iceberg en petits morceaux. Ceux-ci coulent plus vite et si ils 
+	deviennent trop pètit il se désagrègent.
+
+	De même des ours se baladent et ils prennent en chasse note pêcheuse.
+
+	Sakari peut se débarrasser d'un poisson pour le donner à un ours. Celui-ci ne s'occupe plus d'elle pour un moment. 
+	De même, si elle donne un phoque à un orque celui-ci se désinterresse d'elle pour un moment.
+
+	Avec de la chance, Sakari peut trouver un canoë et ce dernier lui permettra de pêcher plus efficament. Mais un orque
+	peut très bien s'attaquer à un canöe et le détruire progressivement.
+
+	Enfin, au bout d'un moment, le blizzard se lève, la visibilité diminue et Sakari doit alors vite retourner à son igloo
+	pour ne pas mourir de froid.
+
+	Quand Sakari accélère elle commence par patiner sur la glace qui est glissante. Au contraire, quand elle veut freiner 
+	elle commence par glisser encore un peu, avec le risque de tomber à l'eau.
+
